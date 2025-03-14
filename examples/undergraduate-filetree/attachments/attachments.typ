@@ -20,6 +20,7 @@
 ]
 
 #let resume = individual("作者简历", outlined: true)[
+  #set par(first-line-indent: 0em)
   #include "resume.typ"
 ]
 

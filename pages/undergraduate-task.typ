@@ -7,7 +7,7 @@
   template-individual("本科生毕业论文（设计）任务书", outlined: true)[
     #set text(size: 字号.小四)
     #strong[
-      一、题目：#info.title.join()<mzt:no-header-footer>\
+      #h(-2em)一、题目：#info.title.join()<mzt:no-header-footer>\
       二、指导教师对毕业论文（设计）的进度安排及任务要求：]
 
     #task
@@ -22,7 +22,7 @@
     )
 
     #v(2em)
-    #strong[#h(-2em)三、系或研究所意见：]
+    #strong[三、系或研究所意见：]
 
 
     #v(1fr)
