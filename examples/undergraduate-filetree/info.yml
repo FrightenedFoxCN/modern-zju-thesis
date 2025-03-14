@@ -1,0 +1,15 @@
+type: undergraduate-cs
+twoside: true
+bibsource: /modern-zju-thesis/examples/undergraduate-filetree/ref.bib
+bibmode: partbib
+info:
+  title: 
+  - 毕业论文/设计题目
+  - Title
+  grade: 2014级
+  student-id: 学号
+  author: 姓名
+  department: 学院
+  major: 专业
+  supervisor: 指导教师
+  submit-date: 递交日期
